@@ -33,17 +33,8 @@ clinicajm/
 │   │   └── resources/
 │   │       ├── static/
 │   │       │   ├── css/
-│   │       │   │   ├── reset.css
-│   │       │   │   ├── styles.css
-│   │       │   │   ├── styles_forms.css
-│   │       │   │   ├── styles_home.css
-│   │       │   │   ├── styles_login.css
-│   │       │   │   └── styles_user.css
 │   │       │   ├── img/
 │   │       │   └── js/
-│   │       │       ├── progressbar.min.js
-│   │       │       ├── scripts.js
-│   │       │       └── scripts_user.js
 │   │       ├── templates/
 │   │       │   ├── consulta/
 │   │       │   │   ├── add_consulta.html
@@ -72,3 +63,47 @@ clinicajm/
 │       │   └── ClinicajmApplicationTests.java
 ├── target/
 ```
+## 🛠️ Como Rodar o Projeto
+
+### Pré-requisitos
+- **Java** (JDK 11 ou superior)
+- **Maven** (para gerenciamento de dependências)
+- **PostgreSQL** (configurado e rodando)
+
+### Instalação e Execução
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seuusuario/clinicajm.git
+   ```
+2. **Navegue até o diretório do projeto:**
+   ```bash
+   cd clinicajm
+   ```
+3. **Compile e rode o projeto**
+4. **Acesse o sistema no seu navegador:**
+   ```bash
+   Abra seu navegador e digite: http://localhost:8080
+   ```
+## 💻 Tecnologias Utilizadas
+- **Java 11+** - Linguagem de programação
+- **Spring Boot** - Framework para criação da aplicação
+- **Thymeleaf** - Motor de templates para renderização de páginas HTML
+- **PostgreSQL** - Banco de dados relacional
+- **Maven** - Gerenciamento de dependências
+- **HTML5 & CSS3** - Estrutura e estilização das páginas
+- **JavaScript** - Scripts para interações dinâmicas no front-end
+
+## 📚 Exemplos de Uso
+1. **Cadastro de um novo paciente:**
+   - Acesse a página de cadastro e preencha os dados do paciente.
+   - Clique em "Salvar" para registrar o paciente no sistema.
+2. **Agendamento de uma consulta:**
+   - Selecione um paciente e um médico, escolha a data e hora, e clique em "Agendar Consulta".
+3. **Realização de um atendimento:**
+   - Acesse a consulta agendada e preencha os detalhes do atendimento, como sintomas e receita médica.
+
+## 📞 Contato
+**Arthur Francisco Guedes Azevedo**
+
+- [LinkedIn](https://www.linkedin.com/in/arthur-azevedo-desenvolvedor/)
+- [Email](mailto:arthurfranciscoazevedo@gmail.com)
