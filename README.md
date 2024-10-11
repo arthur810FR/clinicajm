@@ -1,7 +1,5 @@
 # Clínica MCL
 
-[Link da Hospedagem](#)
-
 ## 📝 Descrição
 A **Clínica MCL** é um sistema de gestão para clínicas médicas desenvolvido em **Spring Boot**, com interface utilizando **Thymeleaf** e estilização personalizada. O sistema visa facilitar o gerenciamento de pacientes, médicos e consultas, proporcionando um ambiente intuitivo para o atendimento médico.
 
